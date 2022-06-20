@@ -1,1 +1,1 @@
-# personality-traits-using-MBTI
+# Personality-traits-using-MBTI
